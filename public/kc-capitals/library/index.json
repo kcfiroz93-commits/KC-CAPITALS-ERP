@@ -1,0 +1,26 @@
+[
+  {
+    "id": "the-year-of-miracle",
+    "title": "The Year of Miracle",
+    "file_pdf": "/kc-capitals/library/books/the-year-of-miracle.pdf",
+    "localPath": "/mnt/data/2025 THE YEAR OF MIRACLE_250106_032129.pdf",
+    "driveFolderId": "15xytBltrBN7ikK4yTr8FS6mRUQzNeAKn",
+    "driveFileId": "",
+    "file_epub": "/kc-capitals/library/epub/the-year-of-miracle.epub",
+    "file_audio": "/kc-capitals/library/audio/the-year-of-miracle.mp3",
+    "cover": "/kc-capitals/library/branding/the-year-of-miracle-cover.jpg",
+    "published_by": "Firoz KC"
+  },
+  {
+    "id": "kc-capitals-mockup",
+    "title": "KC Capitals Mockup",
+    "file_pdf": "/kc-capitals/library/branding/KC Capitals_mockup.pdf",
+    "localPath": "/mnt/data/KC Capitals_mockup.pdf",
+    "driveFolderId": "1BpZVEKZ6QZDhyJywZxn50JvANnQEOpov",
+    "driveFileId": "",
+    "file_epub": "/kc-capitals/library/epub/kc-capitals-mockup.epub",
+    "file_audio": "/kc-capitals/library/audio/kc-capitals-mockup.mp3",
+    "cover": "/kc-capitals/library/branding/kc-capitals-mockup-cover.jpg",
+    "published_by": "KC Capitals"
+  }
+]

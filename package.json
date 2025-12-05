@@ -1,0 +1,17 @@
+{
+  "name": "kc-capitals-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KC Capitals ERP with Drive-backed library",
+  "dependencies": {
+    "firebase-admin": "^11.8.0",
+    "googleapis": "^121.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
